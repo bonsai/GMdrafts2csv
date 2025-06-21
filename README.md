@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a080e1c5-0572-4284-9591-8ad2b5d4196e)
+
 # Gmail下書きスプレッドシート連携 GAS
 
 Gmail の下書きメッセージを取得して Google スプレッドシートに保存する Google Apps Script プロジェクトです。
